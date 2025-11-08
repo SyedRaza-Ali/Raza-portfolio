@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Raza-portfolio/static/css/main.babe7221.css",
-    "main.js": "/Raza-portfolio/static/js/main.fb058f33.js",
+    "main.css": "/Raza-portfolio/static/css/main.2f7ad552.css",
+    "main.js": "/Raza-portfolio/static/js/main.864b3e0c.js",
     "static/media/profile.JPG": "/Raza-portfolio/static/media/profile.cd982040878f355b025c.JPG",
     "static/media/project66.png": "/Raza-portfolio/static/media/project66.6cc524e11a3fba273ae3.png",
     "static/media/project2.png": "/Raza-portfolio/static/media/project2.ea5c11e3d4211c63b09f.png",
@@ -13,11 +13,11 @@
     "static/media/project5.png": "/Raza-portfolio/static/media/project5.89c48d0f30095804b67e.png",
     "static/media/project3.png": "/Raza-portfolio/static/media/project3.07f97ab71af9bda0f9a1.png",
     "index.html": "/Raza-portfolio/index.html",
-    "main.babe7221.css.map": "/Raza-portfolio/static/css/main.babe7221.css.map",
-    "main.fb058f33.js.map": "/Raza-portfolio/static/js/main.fb058f33.js.map"
+    "main.2f7ad552.css.map": "/Raza-portfolio/static/css/main.2f7ad552.css.map",
+    "main.864b3e0c.js.map": "/Raza-portfolio/static/js/main.864b3e0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.babe7221.css",
-    "static/js/main.fb058f33.js"
+    "static/css/main.2f7ad552.css",
+    "static/js/main.864b3e0c.js"
   ]
 }
