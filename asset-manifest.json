@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.babe7221.css",
+    "main.js": "/static/js/main.a1233496.js",
+    "static/media/profile.JPG": "/static/media/profile.cd982040878f355b025c.JPG",
+    "static/media/project66.png": "/static/media/project66.6cc524e11a3fba273ae3.png",
+    "static/media/project2.png": "/static/media/project2.ea5c11e3d4211c63b09f.png",
+    "static/media/project1.png": "/static/media/project1.0eae9f848e196e1f5dd9.png",
+    "static/media/project22.png": "/static/media/project22.38565b40600f241d0d25.png",
+    "static/media/project11.png": "/static/media/project11.61cd692b682dae22546d.png",
+    "static/media/project6.png": "/static/media/project6.a37d6dcd0198fc5d6f0c.png",
+    "static/media/project4.png": "/static/media/project4.d276d7def56937391746.png",
+    "static/media/project5.png": "/static/media/project5.89c48d0f30095804b67e.png",
+    "static/media/project3.png": "/static/media/project3.07f97ab71af9bda0f9a1.png",
+    "index.html": "/index.html",
+    "main.babe7221.css.map": "/static/css/main.babe7221.css.map",
+    "main.a1233496.js.map": "/static/js/main.a1233496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babe7221.css",
+    "static/js/main.a1233496.js"
+  ]
+}
